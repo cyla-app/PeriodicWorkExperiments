@@ -15,7 +15,7 @@
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toTopOf="parent" android:id="@+id/textView2"/>
     <TextView
-            android:text="Running stuff, because why not."
+            android:text="Performing Pings, Periodically."
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" android:id="@+id/textView"
             app:layout_constraintStart_toStartOf="parent"

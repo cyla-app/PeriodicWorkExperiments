@@ -16,7 +16,7 @@ class WorkManagerTestService: Service() {
 
     @RequiresApi(Build.VERSION_CODES.O)
     override fun onCreate() {
-        val pingRequest: PeriodicWorkRequest = PeriodicWorkRequestBuilder<PingWorker>(15, TimeUnit.MINUTES)
+        val pingRequest: PeriodicWorkRequest = PeriodicWorkRequestBuilder<PingWorker>(1, TimeUnit.HOURS)
             .build()
         WorkManager
             .getInstance(this.applicationContext)
