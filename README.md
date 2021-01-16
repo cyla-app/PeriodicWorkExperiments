@@ -26,3 +26,4 @@ Findings for AWM PeriodicWorkRequests so far:
     * Afterwards, the cycle continues as usual
 * Adding an initial delay (e.g. for sending requests at a fixed time of the day) does not work properly
     using the pre-implemented AWM methods
+* After the first night, requests are performed only once a day, usually in the evening
