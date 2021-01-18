@@ -26,4 +26,7 @@ Findings for AWM PeriodicWorkRequests so far:
     * Afterwards, the cycle continues as usual
 * Adding an initial delay (e.g. for sending requests at a fixed time of the day) does not work properly
     using the pre-implemented AWM methods
-* After the first night, requests are performed only once a day, usually in the evening
+* After the first night, requests are performed two to three times a day, usually in the afternoon and the evening
+
+Requests monitored here: https://webhook.site/#!/5f4b763e-9ad8-4ab1-9c4d-2aeddfa76841/f001c2f3-9e0e-4017-83b1-700656badcfc/1
+Long-term experiment started on Tuesday, January 12th at 01:03:55 PM
