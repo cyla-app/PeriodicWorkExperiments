@@ -30,4 +30,4 @@ Findings for AWM PeriodicWorkRequests so far:
 
 Requests monitored here: https://webhook.site/#!/5f4b763e-9ad8-4ab1-9c4d-2aeddfa76841/f001c2f3-9e0e-4017-83b1-700656badcfc/1
 
-Long-term experiment started on Tuesday, January 12th at 01:03:55 PM
+Long-term experiment started on Tuesday, January 12th at 01:03:55 PM and ended on Wednesday, January 20th at 09:45 AM.
